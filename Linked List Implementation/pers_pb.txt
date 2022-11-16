@@ -1,0 +1,13 @@
+1	Amaan	Khan	3524173987	amaan2510@gmail.com	me	0
+2	Saurabh	Gupta	7382904932	saurabh7@gmail.com	friend	3
+25/10/2021	00:15:21
+07/08/2021	00:13:43
+25/02/2022	00:05:19
+3	Varun	Gaikwad	7482719283	varun27@gmail.com	friend	2
+27/12/2021	00:20:05
+02/04/2022	00:04:55
+4	Zidaan	Ahmed	7382947281	zidahm21@gmail.com	neighbour	1
+21/02/2022	00:23:09
+5	Meraj	Khan	3392738291	khanmeraj4@gmail.com	friend	2
+04/07/2021	01:34:45
+25/10/2022	00:51:39
